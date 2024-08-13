@@ -111,3 +111,7 @@ const init = function () {
 };
 init();
 dotClick();
+
+window.addEventListener('contextmenu',function(e){
+  e.preventDefault();
+})

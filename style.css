@@ -10,7 +10,7 @@ body {
   background-color: #f2f2f2;
   font-size: 62.5%;
   font-family: 'Courier New', Courier, monospace;
-  overflow: scroll;
+  overflow: hidden;
 }
 
 header {
